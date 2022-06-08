@@ -5,3 +5,6 @@ ssh
 yaml
 changelog
 redis
+node stream
+promise
+async await
